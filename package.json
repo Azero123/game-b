@@ -1,0 +1,19 @@
+{
+  "name": "game-b",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azero123/game-b.git"
+  },
+  "author": "Azero123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azero123/game-b/issues"
+  },
+  "homepage": "https://github.com/Azero123/game-b#readme"
+}
